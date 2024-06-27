@@ -1,0 +1,7 @@
+{{"entityType": "{$businessEntity}",
+    "pageSize": 25,
+    "pageOffset": 0,
+     "fields": {
+        "{$businessEntity}.businessid" : "{$businessid}",
+    }
+}}
